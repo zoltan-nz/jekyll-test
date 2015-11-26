@@ -9,9 +9,6 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
-# Site Source
-source: source
-
 # Build settings
 markdown: redcarpet
 
